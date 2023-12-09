@@ -9,7 +9,7 @@ public class DemoKafkaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoKafkaApplication.class, args);
 
-		System.out.println("GHolas");
+
 	}
 
 }
